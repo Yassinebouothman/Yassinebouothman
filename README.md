@@ -1,7 +1,7 @@
 [![MasterHead](https://cdn.hashnode.com/res/hashnode/image/upload/v1651780522995/zZbL8WM2v.gif?w=1600&h=840&fit=crop&crop=entropy&auto=format,compress&gif-q=60&format=webm)]
 <h1 align="center">Hi 👋, I'm Yassine Bouothman</h1>
 <h3 align="center">A passionate Embedded systems & IoT developer from Tunisia</h3>
-<img align="right" alt="Coding" width="400" src="https://giphy.com/gifs/life-interesting-footage-ZVik7pBtu9dNS">
+<img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=yassinebouothman&label=Profile%20views&color=0e75b6&style=flat" alt="yassinebouothman" /> </p>
 
