@@ -1,4 +1,4 @@
-[![MasterHead](https://media.licdn.com/dms/image/C4E16AQHRaJv_M3liwA/profile-displaybackgroundimage-shrink_200_800/0/1647533808153?e=2147483647&v=beta&t=SNDAHkNOfLEingR2uFoaXQH17MaNznklI9C9dxyLt74)]
+[![MasterHead](https://cdn.hashnode.com/res/hashnode/image/upload/v1651780155240/7SZuYu_oq.gif)]
 <h1 align="center">Hi 👋, I'm Yassine Bouothman</h1>
 <h3 align="center">A passionate Embedded systems & IoT developer from Tunisia</h3>
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
