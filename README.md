@@ -1,7 +1,7 @@
 [![MasterHead]![github-header-image](https://github.com/Yassinebouothman/Yassinebouothman/assets/98977445/de182199-8de2-4cc2-a39b-b8dd2428edcf)]
 <h1 align="center">Hi 👋, I'm Yassine Bouothman</h1>
 <h3 align="center">A passionate Embedded systems & IoT developer from Tunisia</h3>
-<img align="right" alt="Coding" width="400" src="https://giphy.com/gifs/life-interesting-footage-ZVik7pBtu9dNS">
+<img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=yassinebouothman&label=Profile%20views&color=0e75b6&style=flat" alt="yassinebouothman" /> </p>
 
