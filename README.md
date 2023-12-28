@@ -1,5 +1,4 @@
-![MasterHead][!https://github.com/Yassinebouothman/Yassinebouothman/assets/98977445/de182199-8de2-4cc2-a39b-b8dd2428edcf]
-![Header](./[https://github.com/Yassinebouothman/Yassinebouothman/assets/98977445/de182199-8de2-4cc2-a39b-b8dd2428edcf)
+![github-header-image](https://github.com/Yassinebouothman/Yassinebouothman/assets/98977445/003c3ae1-a0c3-4012-b313-59370f61f816)
 <h3 align="center">A passionate Embedded systems & IoT developer from Tunisia</h3>
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
 
@@ -14,6 +13,7 @@
 - 👨‍💻 All of my projects are available at [https://github.com/Yassinebouothman](https://github.com/Yassinebouothman)
 
 - 📫 How to reach me **bouyassine48@gmail.com**
+
 
 - ⚡ Fun fact **I hate distractions when working**
 
